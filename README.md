@@ -1,1 +1,2 @@
-# laboratorio 7
+# Ejercicio en clase
+
